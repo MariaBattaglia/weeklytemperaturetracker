@@ -16,11 +16,4 @@ This Java console application allows users to input and track daily average temp
 - ArrayLists for dynamic data storage
 - Loops and conditionals for control flow
 - Scanner for user input
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/weekly-temperature-tracker.git
-   cd weekly-temperature-tracker
 # weeklytemperaturetracker
